@@ -1,4 +1,4 @@
-## GameApi
+## Desenvolvimento de api - GAMEAPI
 
 #### Projeto exemplo para uma api de jogos.
 

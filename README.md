@@ -1,6 +1,6 @@
 ## Desenvolvimento de api - GAMEAPI
 
-#### Projeto exemplo para uma api de jogos.
+#### Projeto exemplo para uma api de seleção de jogos.
 
 <hr>
 

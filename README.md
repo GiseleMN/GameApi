@@ -1,13 +1,12 @@
-# GameApi
+## GameApi
 
-### Projeto exemplo para uma api de jogos.
-
-#### Projeto teleguiado com instrutores da Digital Inovation One
+#### Projeto exemplo para uma api de jogos.
 
 <hr>
 
-### Esse projeto foi realizado em Java, para aprendadizado da linguagem Java. 
+#### Esse projeto foi realizado em Java, para aprendadizado da linguagem Java. 
 
-### Para esse projeto foi feito uso da IDE eclipse.
+#### Para esse projeto foi feito uso de:
+##### IDE eclipse.
 
-## Projeto ainda em andamento a ser feito mudanças.
+#### Projeto ainda em andamento a ser feito mudanças.
